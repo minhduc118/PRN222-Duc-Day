@@ -1,0 +1,23 @@
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+
+# NuGet
+*.nupkg
+packages/
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Mac
+.DS_Store

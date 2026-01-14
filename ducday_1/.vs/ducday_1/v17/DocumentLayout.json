@@ -1,7 +1,100 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\FPT UNIVERSITY\\SPRING_2026_SEASON7\\PRN222\\ducday_1\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79E826AF-F4B8-4753-B126-AE9A5105F81E}|ducday_1.csproj|d:\\fpt university\\spring_2026_season7\\prn222\\ducday_1\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79E826AF-F4B8-4753-B126-AE9A5105F81E}|ducday_1.csproj|solutionrelative:views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E826AF-F4B8-4753-B126-AE9A5105F81E}|ducday_1.csproj|d:\\fpt university\\spring_2026_season7\\prn222\\ducday_1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79E826AF-F4B8-4753-B126-AE9A5105F81E}|ducday_1.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E826AF-F4B8-4753-B126-AE9A5105F81E}|ducday_1.csproj|d:\\fpt university\\spring_2026_season7\\prn222\\ducday_1\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E826AF-F4B8-4753-B126-AE9A5105F81E}|ducday_1.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E826AF-F4B8-4753-B126-AE9A5105F81E}|ducday_1.csproj|d:\\fpt university\\spring_2026_season7\\prn222\\ducday_1\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79E826AF-F4B8-4753-B126-AE9A5105F81E}|ducday_1.csproj|solutionrelative:views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E826AF-F4B8-4753-B126-AE9A5105F81E}|ducday_1.csproj|d:\\fpt university\\spring_2026_season7\\prn222\\ducday_1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E826AF-F4B8-4753-B126-AE9A5105F81E}|ducday_1.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E826AF-F4B8-4753-B126-AE9A5105F81E}|ducday_1.csproj|d:\\fpt university\\spring_2026_season7\\prn222\\ducday_1\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79E826AF-F4B8-4753-B126-AE9A5105F81E}|ducday_1.csproj|solutionrelative:views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E826AF-F4B8-4753-B126-AE9A5105F81E}|ducday_1.csproj|d:\\fpt university\\spring_2026_season7\\prn222\\ducday_1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E826AF-F4B8-4753-B126-AE9A5105F81E}|ducday_1.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E826AF-F4B8-4753-B126-AE9A5105F81E}|ducday_1.csproj|d:\\fpt university\\spring_2026_season7\\prn222\\ducday_1\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79E826AF-F4B8-4753-B126-AE9A5105F81E}|ducday_1.csproj|solutionrelative:views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E826AF-F4B8-4753-B126-AE9A5105F81E}|ducday_1.csproj|d:\\fpt university\\spring_2026_season7\\prn222\\ducday_1\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79E826AF-F4B8-4753-B126-AE9A5105F81E}|ducday_1.csproj|solutionrelative:views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E826AF-F4B8-4753-B126-AE9A5105F81E}|ducday_1.csproj|d:\\fpt university\\spring_2026_season7\\prn222\\ducday_1\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79E826AF-F4B8-4753-B126-AE9A5105F81E}|ducday_1.csproj|solutionrelative:views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E826AF-F4B8-4753-B126-AE9A5105F81E}|ducday_1.csproj|d:\\fpt university\\spring_2026_season7\\prn222\\ducday_1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79E826AF-F4B8-4753-B126-AE9A5105F81E}|ducday_1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E826AF-F4B8-4753-B126-AE9A5105F81E}|ducday_1.csproj|d:\\fpt university\\spring_2026_season7\\prn222\\ducday_1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79E826AF-F4B8-4753-B126-AE9A5105F81E}|ducday_1.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E826AF-F4B8-4753-B126-AE9A5105F81E}|ducday_1.csproj|d:\\fpt university\\spring_2026_season7\\prn222\\ducday_1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E826AF-F4B8-4753-B126-AE9A5105F81E}|ducday_1.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E826AF-F4B8-4753-B126-AE9A5105F81E}|ducday_1.csproj|d:\\fpt university\\spring_2026_season7\\prn222\\ducday_1\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E826AF-F4B8-4753-B126-AE9A5105F81E}|ducday_1.csproj|solutionrelative:controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E826AF-F4B8-4753-B126-AE9A5105F81E}|ducday_1.csproj|d:\\fpt university\\spring_2026_season7\\prn222\\ducday_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E826AF-F4B8-4753-B126-AE9A5105F81E}|ducday_1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E826AF-F4B8-4753-B126-AE9A5105F81E}|ducday_1.csproj|d:\\fpt university\\spring_2026_season7\\prn222\\ducday_1\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79E826AF-F4B8-4753-B126-AE9A5105F81E}|ducday_1.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E826AF-F4B8-4753-B126-AE9A5105F81E}|ducday_1.csproj|d:\\fpt university\\spring_2026_season7\\prn222\\ducday_1\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79E826AF-F4B8-4753-B126-AE9A5105F81E}|ducday_1.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E826AF-F4B8-4753-B126-AE9A5105F81E}|ducday_1.csproj|d:\\fpt university\\spring_2026_season7\\prn222\\ducday_1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79E826AF-F4B8-4753-B126-AE9A5105F81E}|ducday_1.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E826AF-F4B8-4753-B126-AE9A5105F81E}|ducday_1.csproj|d:\\fpt university\\spring_2026_season7\\prn222\\ducday_1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79E826AF-F4B8-4753-B126-AE9A5105F81E}|ducday_1.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E826AF-F4B8-4753-B126-AE9A5105F81E}|ducday_1.csproj|d:\\fpt university\\spring_2026_season7\\prn222\\ducday_1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{79E826AF-F4B8-4753-B126-AE9A5105F81E}|ducday_1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E826AF-F4B8-4753-B126-AE9A5105F81E}|ducday_1.csproj|d:\\fpt university\\spring_2026_season7\\prn222\\ducday_1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{79E826AF-F4B8-4753-B126-AE9A5105F81E}|ducday_1.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E826AF-F4B8-4753-B126-AE9A5105F81E}|ducday_1.csproj|d:\\fpt university\\spring_2026_season7\\prn222\\ducday_1\\ducday_1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{79E826AF-F4B8-4753-B126-AE9A5105F81E}|ducday_1.csproj|solutionrelative:ducday_1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E826AF-F4B8-4753-B126-AE9A5105F81E}|ducday_1.csproj|d:\\fpt university\\spring_2026_season7\\prn222\\ducday_1\\ducday_1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{79E826AF-F4B8-4753-B126-AE9A5105F81E}|ducday_1.csproj|solutionrelative:ducday_1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +102,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 20,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,6 +151,284 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\FPT UNIVERSITY\\SPRING_2026_SEASON7\\PRN222\\ducday_1\\Views\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Details.cshtml",
+              "ToolTip": "D:\\FPT UNIVERSITY\\SPRING_2026_SEASON7\\PRN222\\ducday_1\\Views\\Products\\Details.cshtml",
+              "RelativeToolTip": "Views\\Products\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T15:02:59.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\FPT UNIVERSITY\\SPRING_2026_SEASON7\\PRN222\\ducday_1\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Create.cshtml",
+              "ToolTip": "D:\\FPT UNIVERSITY\\SPRING_2026_SEASON7\\PRN222\\ducday_1\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "Views\\Products\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T14:21:35.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\FPT UNIVERSITY\\SPRING_2026_SEASON7\\PRN222\\ducday_1\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Index.cshtml",
+              "ToolTip": "D:\\FPT UNIVERSITY\\SPRING_2026_SEASON7\\PRN222\\ducday_1\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-12T10:17:41.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\FPT UNIVERSITY\\SPRING_2026_SEASON7\\PRN222\\ducday_1\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "D:\\FPT UNIVERSITY\\SPRING_2026_SEASON7\\PRN222\\ducday_1\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T10:05:53.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\FPT UNIVERSITY\\SPRING_2026_SEASON7\\PRN222\\ducday_1\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\FPT UNIVERSITY\\SPRING_2026_SEASON7\\PRN222\\ducday_1\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAUwF8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T09:29:30.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\FPT UNIVERSITY\\SPRING_2026_SEASON7\\PRN222\\ducday_1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\FPT UNIVERSITY\\SPRING_2026_SEASON7\\PRN222\\ducday_1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T15:02:40.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\FPT UNIVERSITY\\SPRING_2026_SEASON7\\PRN222\\ducday_1\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\FPT UNIVERSITY\\SPRING_2026_SEASON7\\PRN222\\ducday_1\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T15:10:16.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\FPT UNIVERSITY\\SPRING_2026_SEASON7\\PRN222\\ducday_1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\FPT UNIVERSITY\\SPRING_2026_SEASON7\\PRN222\\ducday_1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-10T15:10:52.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\FPT UNIVERSITY\\SPRING_2026_SEASON7\\PRN222\\ducday_1\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\About.cshtml",
+              "ToolTip": "D:\\FPT UNIVERSITY\\SPRING_2026_SEASON7\\PRN222\\ducday_1\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-10T16:06:45.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\FPT UNIVERSITY\\SPRING_2026_SEASON7\\PRN222\\ducday_1\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Edit.cshtml",
+              "ToolTip": "D:\\FPT UNIVERSITY\\SPRING_2026_SEASON7\\PRN222\\ducday_1\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Products\\Edit.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T15:14:41.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\FPT UNIVERSITY\\SPRING_2026_SEASON7\\PRN222\\ducday_1\\Views\\Products\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Delete.cshtml",
+              "ToolTip": "D:\\FPT UNIVERSITY\\SPRING_2026_SEASON7\\PRN222\\ducday_1\\Views\\Products\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Products\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T15:14:56.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\FPT UNIVERSITY\\SPRING_2026_SEASON7\\PRN222\\ducday_1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\FPT UNIVERSITY\\SPRING_2026_SEASON7\\PRN222\\ducday_1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwAQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-10T15:13:12.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\FPT UNIVERSITY\\SPRING_2026_SEASON7\\PRN222\\ducday_1\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\FPT UNIVERSITY\\SPRING_2026_SEASON7\\PRN222\\ducday_1\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-10T15:10:49.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\FPT UNIVERSITY\\SPRING_2026_SEASON7\\PRN222\\ducday_1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\FPT UNIVERSITY\\SPRING_2026_SEASON7\\PRN222\\ducday_1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-10T15:13:09.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DemoController.cs",
+              "DocumentMoniker": "D:\\FPT UNIVERSITY\\SPRING_2026_SEASON7\\PRN222\\ducday_1\\Controllers\\DemoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DemoController.cs",
+              "ToolTip": "D:\\FPT UNIVERSITY\\SPRING_2026_SEASON7\\PRN222\\ducday_1\\Controllers\\DemoController.cs",
+              "RelativeToolTip": "Controllers\\DemoController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T09:52:18.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPT UNIVERSITY\\SPRING_2026_SEASON7\\PRN222\\ducday_1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\FPT UNIVERSITY\\SPRING_2026_SEASON7\\PRN222\\ducday_1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T15:11:52.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\FPT UNIVERSITY\\SPRING_2026_SEASON7\\PRN222\\ducday_1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\FPT UNIVERSITY\\SPRING_2026_SEASON7\\PRN222\\ducday_1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-10T15:13:14.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\FPT UNIVERSITY\\SPRING_2026_SEASON7\\PRN222\\ducday_1\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\FPT UNIVERSITY\\SPRING_2026_SEASON7\\PRN222\\ducday_1\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-10T15:13:19.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\FPT UNIVERSITY\\SPRING_2026_SEASON7\\PRN222\\ducday_1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\FPT UNIVERSITY\\SPRING_2026_SEASON7\\PRN222\\ducday_1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-10T15:13:10.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\FPT UNIVERSITY\\SPRING_2026_SEASON7\\PRN222\\ducday_1\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\FPT UNIVERSITY\\SPRING_2026_SEASON7\\PRN222\\ducday_1\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-10T15:12:05.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\FPT UNIVERSITY\\SPRING_2026_SEASON7\\PRN222\\ducday_1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\FPT UNIVERSITY\\SPRING_2026_SEASON7\\PRN222\\ducday_1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-10T15:11:56.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ducday_1",
+              "DocumentMoniker": "D:\\FPT UNIVERSITY\\SPRING_2026_SEASON7\\PRN222\\ducday_1\\ducday_1.csproj",
+              "RelativeDocumentMoniker": "ducday_1.csproj",
+              "ToolTip": "D:\\FPT UNIVERSITY\\SPRING_2026_SEASON7\\PRN222\\ducday_1\\ducday_1.csproj",
+              "RelativeToolTip": "ducday_1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-10T15:11:54.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ducday_1.csproj",
+              "DocumentMoniker": "D:\\FPT UNIVERSITY\\SPRING_2026_SEASON7\\PRN222\\ducday_1\\ducday_1.csproj",
+              "RelativeDocumentMoniker": "ducday_1.csproj",
+              "ToolTip": "D:\\FPT UNIVERSITY\\SPRING_2026_SEASON7\\PRN222\\ducday_1\\ducday_1.csproj",
+              "RelativeToolTip": "ducday_1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-10T15:01:22.002Z"
             },
             {
               "$type": "Bookmark",

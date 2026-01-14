@@ -1,0 +1,29 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model Product
+@{
+    ViewData["Title"] = "Xóa sản phẩm";
+}
+<h1>Xác nhận xóa</h1>
+<div class="alert alert-danger">
+    <h4>Bạn có chắc muốn xóa sản phẩm này?</h4>
+</div>
+<div class="card" style="max-width: 400px;">
+    <div class="card-body">
+        <h5 class="card-title">@Model.Name</h5>
+        <p class="card-text">
+            <strong>ID:</strong> @Model.Id <br />
+            <strong>Giá:</strong> @Model.Price.ToString("N0") VNĐ <br />
+            <strong>Số lượng:</strong> @Model.Quantity
+        </p>
+
+        <form asp-action="Delete" method="post">
+            <input type="hidden" asp-for="Id" />
+            <button type="submit" class="btn btn-danger">
+                <i class="bi bi-trash"></i> Xác nhận xóa
+            </button>
+            <a asp-action="Index" class="btn btn-secondary">Hủy</a>
+        </form>
+    </div>
+</div>

@@ -1,4 +1,4 @@
-using System.Diagnostics;
+﻿using System.Diagnostics;
 using ducday_1.Models;
 using Microsoft.AspNetCore.Mvc;
 
@@ -20,6 +20,12 @@ namespace ducday_1.Controllers
 
         public IActionResult Privacy()
         {
+            return View();
+        }
+
+        public IActionResult About()
+        {
+            ViewData["Message"] = "Đây là trang giới thiệu.";
             return View();
         }
 

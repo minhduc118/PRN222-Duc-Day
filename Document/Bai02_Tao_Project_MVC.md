@@ -163,6 +163,73 @@ namespace MyFirstMvc.Controllers
 </div>
 ```
 
+#### 📌 Giải thích cú pháp Razor
+
+Khi tạo View mới (Razor View - Empty), file sẽ có nội dung mặc định:
+
+```cshtml
+@*
+    For more information on enabling MVC for empty projects...
+*@
+@{
+}
+```
+
+**1. Comment (Chú thích Razor)**
+
+```cshtml
+@* Đây là comment trong Razor *@
+```
+
+- `@*` ... `*@` = Cú pháp comment trong Razor
+- Nội dung **KHÔNG được gửi** về trình duyệt (an toàn hơn `<!-- -->` của HTML)
+
+**2. Code Block (Khối mã C#)**
+
+```cshtml
+@{
+    // Viết code C# ở đây
+    var message = "Hello World";
+    var currentDate = DateTime.Now;
+}
+```
+
+- `@{ }` = Khối code C# trong View
+- Dùng để: khai báo biến, xử lý logic, gán ViewData
+
+**3. Bảng tổng hợp cú pháp Razor**
+
+| Cú pháp | Mô tả | Ví dụ |
+|---------|-------|-------|
+| `@variable` | Hiển thị giá trị | `<p>@name</p>` |
+| `@{ }` | Khối code C# | `@{ var x = 10; }` |
+| `@* *@` | Comment | `@* Chú thích *@` |
+| `@if(){}` | Điều kiện | `@if(x > 5){ <p>Lớn</p> }` |
+| `@foreach(){}` | Vòng lặp | `@foreach(var item in list){ }` |
+| `@Model` | Truy cập Model | `@Model.Name` |
+| `@ViewData["key"]` | Truy cập ViewData | `@ViewData["Title"]` |
+
+**4. Ví dụ thực tế**
+
+```cshtml
+@{
+    ViewData["Title"] = "Danh sách";
+    var students = new List<string> { "An", "Bình", "Chi" };
+}
+
+<h1>@ViewData["Title"]</h1>
+<p>Hôm nay: @DateTime.Now.ToString("dd/MM/yyyy")</p>
+
+<ul>
+@foreach(var student in students)
+{
+    <li>@student</li>
+}
+</ul>
+```
+
+> 💡 **Lưu ý**: Ký tự `@` là dấu hiệu để Razor biết đây là code C#, không phải HTML thuần.
+
 ### 3.4 Layout - Template chung
 
 ```html
