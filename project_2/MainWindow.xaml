@@ -6,7 +6,24 @@
         xmlns:local="clr-namespace:project_2"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="321.031"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="187*"/>
+            <ColumnDefinition Width="593*"/>
+        </Grid.ColumnDefinitions>
+        <TextBlock Grid.Row="0" Grid.Column="1" Text="Book Store" FontSize="25"/>
+        <ComboBox x:Name="cboAuthors" Grid.Row="1" Grid.Column="0" DisplayMemberPath="Name" SelectionChanged="cboAuthors_SelectionChanged" Height="30" />
+        <DataGrid x:Name="dgBooks" Grid.Row="1" Grid.Column="1" AutoGenerateColumns="False" SelectionChanged="dgBooks_SelectionChanged">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID" Binding="{Binding Id}" Width="50"/>
+                <DataGridTextColumn Header="Title" Binding="{Binding Title}" Width="200"/>
+                <DataGridTextColumn Header="Year" Binding="{Binding Year}" Width="100"/>
+            </DataGrid.Columns>
+        </DataGrid>
 
     </Grid>
 </Window>
